@@ -1,0 +1,7 @@
+target/
+*.class
+*.jar
+*.war
+data/
+.env
+*.csv
